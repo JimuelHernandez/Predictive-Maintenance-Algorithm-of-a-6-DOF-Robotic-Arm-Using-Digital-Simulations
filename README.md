@@ -1,6 +1,6 @@
 # Predictive Maintenance Algorithm for ABB IRB 4600
 
-This repository contains code for making predictions on new data using a trained machine learning model to predict structural damage in components based on certain features. The provided code includes preprocessing steps, model loading, prediction generation, evaluation metrics calculation, and result visualization.
+This repository contains code for making predictions on new data using a trained machine learning model to predict structural damage in ABB IRB 4600 robotic arm components based on certain features. The provided code includes preprocessing steps, model loading, prediction generation, evaluation metrics calculation, and result visualization.
 
 ## Table of Contents
 
